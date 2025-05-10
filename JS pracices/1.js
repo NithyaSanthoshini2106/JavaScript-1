@@ -2,7 +2,7 @@
 const user = {
     firstName: "Nithya",
     lastName: "Buddy",
-    age: 25,
+    age: 30,
     isAdmin: true,
   
     // Method to display full name
